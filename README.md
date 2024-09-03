@@ -1,1 +1,2 @@
 # basic-hotel-reservation-using-java
+The Hotel Reservation System is a basic Java project that allows users to book rooms, view available rooms, and manage reservations. This system is designed to simulate a simple hotel management operation, where users can reserve a room, check the status of rooms, and cancel bookings. It offers a foundation to build more complex features, making it a great project.
